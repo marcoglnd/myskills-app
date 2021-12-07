@@ -93,7 +93,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#1f1f1f',
     borderRadius: 7,
     color: '#fff',
-    fontSize: 21,
+    fontSize: 20,
     marginTop: 20,
     padding: Platform.OS === 'ios' ? 15 : 10,
   },
